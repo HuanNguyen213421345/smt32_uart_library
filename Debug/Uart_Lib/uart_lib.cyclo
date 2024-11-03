@@ -1,0 +1,5 @@
+../Uart_Lib/uart_lib.c:27:13:Uart_Library_Peripheral_Init	4
+../Uart_Lib/uart_lib.c:47:6:Uart_Library_System_Init	1
+../Uart_Lib/uart_lib.c:56:6:Uart_Print_String	1
+../Uart_Lib/uart_lib.c:61:6:Uart_Print_String_FR_Callback	2
+../Uart_Lib/uart_lib.c:70:6:HAL_UART_RxCpltCallback	2
